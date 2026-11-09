@@ -1,6 +1,6 @@
-# CI/CD Tools and Practices Final Project Template
+# CI/CD Final Project – Automated Testing and Deployment
 
-This repository contains the template to be used for the Final Project for the Coursera course **CI/CD Tools and Practices**.
+This project demonstrates a CI/CD pipeline using GitHub Actions, automated testing, and deployment workflows.
 
 ## Usage
 
